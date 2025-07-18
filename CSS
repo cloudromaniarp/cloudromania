@@ -1,0 +1,4 @@
+/* Ascunde tot ce nu are clasa .regulament sau .sanctiuni */
+body > *:not(.regulament):not(.sanctiuni) {
+  display: none !important;
+}
