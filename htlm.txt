@@ -1,0 +1,4 @@
+<nav>
+  <a href="#regulament">Regulament</a>
+  <a href="#sanctiuni">Sancțiuni</a>
+</nav>
